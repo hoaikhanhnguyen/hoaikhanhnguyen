@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
+- I code in Java and JavaScript at work. C++ when I work on my game engine or Unreal, C# on Unity, and Python for mostly everything else
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khanh-hoai-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khanh-hoai-nguyen/" height="30" width="40" /></a>
