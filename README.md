@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
-- I code in Java and JavaScript at work. C++ when I work on my game engine or Unreal, C# on Unity, and Python for mostly everything else
+- I mainly code in Java and JavaScript at work. C++ when I work on my game engine or Unreal, C# on Unity, and Python for mostly everything else
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
