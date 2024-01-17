@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18597
-Fork on GitHub
-5538
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Khanh</h1>
 <h3 align="center">I am a full stack engineer and a game dev hobbyist</h3>
 
@@ -25,7 +9,7 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khanh-hoai-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khanh-hoai-nguyen/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khanh-hoai-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khanh-hoai-nguyen/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
