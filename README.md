@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **my own game engine**
 
-- 🌱 I’m currently learning **computer networking and Linux for some foundational certifications, game development with Unreal, and exploring AI apis**
+- 🌱 I’m currently learning **computer networking and Linux for some foundational certifications and game development with Unreal**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
-- I mainly code in Java and JavaScript at work. C++ for my game engine or Unreal, C# on Unity, and Python for everything else
+- I mainly code in Java and JavaScript at work. C++ for my game engine or Unreal, and Python for everything else
 - Favorite languages: C++ and Python
 
 <h3 align="left">Connect with me:</h3>
