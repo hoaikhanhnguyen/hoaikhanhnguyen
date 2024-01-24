@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own game engine**
 
-- 🌱 I’m currently learning **computer networking and Linux for some foundational certifications and game development with Unreal**
+- 🌱 I’m currently learning **computer networking and Linux for some foundational certifications and Unreal engine**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
