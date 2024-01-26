@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khanh</h1>
 <h3 align="center">I am a full stack engineer and a game dev hobbyist</h3>
 
-- 🔭 I’m currently working on **my own game engine**
+- 🔭 I’m currently working on **my own 2d game engine**
 
 - 🌱 I’m currently learning **computer networking and Linux for some foundational certifications and Unreal engine**
 
