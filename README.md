@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
-- I mainly code in Java and JavaScript at work. C++ for my game engine and Unreal, and Python for everything else
+- I mainly code in Java, JavaScript at work. C++ for my game engine and Unreal
 - Favorite languages: C++ and Python
 
 <h3 align="left">Connect with me:</h3>
