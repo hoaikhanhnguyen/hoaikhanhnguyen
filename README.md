@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, </h1>
-<h3 align="center">I am a full stack developer, software engineer and a game dev hobbyist</h3>
+<h3 align="center">I am a full stack developer, software engineer and game dev hobbyist</h3>
 
 - 🔭 I’m currently working on **a 2D game engine**
 
