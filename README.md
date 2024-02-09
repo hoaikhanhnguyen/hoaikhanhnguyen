@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
-- I use Java, JavaScript at work. C++ for my game engine and Unreal
+- I use Java, JavaScript at work and C++ for my game engine or Unreal
 - Favorite languages: C++ and Python
 
 <h3 align="left">Connect with me:</h3>
