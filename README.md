@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, </h1>
 <h3 align="center">I am a full stack developer, software engineer, and game dev hobbyist</h3>
 
-- 🔭 I’m currently working on **building a NAS and 2D game engine**
+- 🔭 I’m currently working on **building an NAS and 2D game engine**
 
 - 🌱 I’m currently learning **Computer Networking, Linux+, and Unreal engine**
 
