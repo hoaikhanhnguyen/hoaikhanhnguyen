@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, </h1>
 <h3 align="center">I am a full stack developer, software engineer, and game dev hobbyist</h3>
 
-- 🔭 I’m currently working on **building a game on Unreal**
+- 🔭 I’m currently reading **How Linux Works**
 
-- 🌱 I’m currently learning **Computer Networking and Unreal Engine**
+- 🌱 I’m currently learning **Computer Networking**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
