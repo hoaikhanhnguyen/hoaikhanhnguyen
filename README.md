@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, </h1>
 <h3 align="center">I am a full stack developer, software engineer, and game dev hobbyist</h3>
 
-- 🔭 I’m currently reading **How Linux Works**
+- 🔭 I’m currently reading **How LINUX Works**
 
 - 🌱 I’m currently learning **Computer Networking**
 
