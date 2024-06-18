@@ -35,8 +35,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo " " >> README.md
-          git config user.name {{hoaikhanhnguyen}} 
-          git config user.email {{con.nguyen.86@gmail.com}} 
           git add .      
           git commit -m "Always green!" 
           git push
