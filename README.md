@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reading **Computer Architecture by Charles Fox**
 
-- 🌱 I’m currently learning **Computer Networking**
+- 🌱 I’m currently learning **Computer Networking and Software Design**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
