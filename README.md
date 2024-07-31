@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, </h1>
+<h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
 <h3 align="center">I am a full stack developer, software engineer, and game dev hobbyist</h3>
 
 - 🔭 I’m currently reading **Computer Architecture by Charles Fox**
