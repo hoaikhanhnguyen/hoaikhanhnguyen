@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reading **Computer Architecture by Charles Fox**
 
-- 🌱 I’m currently learning **Unreal Engine and Software Design**
+- 🌱 I’m currently learning **Unreal Engine and Operating Systems**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
