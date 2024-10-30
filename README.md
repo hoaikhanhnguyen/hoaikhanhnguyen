@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
 <h3 align="center">I am a full stack developer, software engineer, and game dev hobbyist</h3>
 
-- 🔭 I’m currently reading **Computer Architecture by Charles Fox**
+- 🔭 I’m currently reading **Operating Systems: Three Easy Pieces**
 
 - 🌱 I’m currently learning **Unreal Engine and Operating Systems**
 
