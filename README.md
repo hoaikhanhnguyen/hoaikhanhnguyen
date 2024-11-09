@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
 <h3 align="center">I am a full stack developer, software engineer, and game dev hobbyist</h3>
 
-- 🔭 I’m currently reading **Operating Systems: Three Easy Pieces**
+- 🔭 I’m currently reading **Operating Systems: Three Easy Pieces and The Rust Programming Language**
 
-- 🌱 I’m currently learning **Unreal Engine and Operating Systems**
+- 🌱 I’m currently learning **Operating Systems and Rust**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
