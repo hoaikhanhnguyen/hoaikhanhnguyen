@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reading **Operating Systems: Three Easy Pieces and The Rust Programming Language**
 
-- 🌱 I’m currently learning **Operating Systems and Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
