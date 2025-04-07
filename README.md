@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reading **Computer Graphics From Scratch**
 
-- 🌱 I’m currently learning **Computer Graphics and Internet Programming**
+- 🌱 I’m currently learning **Computer Graphics**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
