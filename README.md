@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reading **Computer Graphics From Scratch, Real-time Rendering**
 
-- 🌱 I’m currently learning **Raytracing**
+- 🌱 I’m currently learning **webgl**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
