@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
 <h3 align="center">I am a software engineer and game dev hobbyist</h3>
 
-- 🔭 I’m currently reading **Computer Graphics From Scratch, Real-time Rendering**
+- 🔭 I’m currently reading **Real-time Rendering**
 
-- 🌱 I’m currently learning **WebGL and Rasterization**
+- 🌱 I’m currently learning **WebGL and Shaders**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
