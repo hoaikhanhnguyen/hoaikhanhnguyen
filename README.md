@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reading **Real-time Rendering**
 
-- 🌱 I’m currently learning **WebGL and Shaders**
+- 🌱 I’m currently learning **GCP**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
