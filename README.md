@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
-<h3 align="center">I am a software engineer and game dev hobbyist</h3>
+<h3 align="center">I am a software engineer and game dev and graphics programming hobbyist</h3>
 
 - 🔭 I’m currently reading **Software Engineering at Google**
 
