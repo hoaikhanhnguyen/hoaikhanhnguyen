@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently reading **Structure and Interpretation of Computer Programs**
 
-- 🌱 I’m currently learning **agentic ai**
+- 🌱 I’m currently learning **MCP and Unreal**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
