@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
 <h3 align="center">I am a software engineer, full stack developer,  graphics programmer, and game dev hobbyist</h3>
 
-- 🔭 I’m currently reading **Structure and Interpretation of Computer Programs**
+- 🔭 I’m currently reading **GPU Zen - Advanced Rendering Techniques**
 
-- 🌱 I’m currently learning **Claude and Codex**
+- 🌱 I’m currently learning **GPU Programming**
 
 - 📫 How to reach me **coding.khanh@gmail.com**
 
